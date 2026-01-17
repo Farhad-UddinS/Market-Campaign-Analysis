@@ -5,22 +5,20 @@ The project idea is to showcase the efficacy of various marketing campaigns. Thi
 ---
 
 ## 🚀 Project Overview
+This project implements an end-to-end Power BI Business Intelligence solution to analyze marketing campaign performance and customer engagement using a structured marketing analytics dataset. The focus is on applying data modeling, DAX-based metrics, and interactive visual analytics to derive actionable insights from campaign and transaction data.
 
-Analyzing marketing campaigns is not just about reporting metrics — it’s about understanding **what works, why it works, and where to optimize next**.
+Raw campaign and customer-level data were ingested into Power BI and processed using Power Query, where data cleaning, normalization, and feature engineering were performed. Key attributes such as age groups, education levels, marital status, income segments, and campaign response flags were derived to enable multidimensional analysis.
 
-This project evaluates the **effectiveness of marketing campaigns**, customer spending behavior, and campaign acceptance patterns to support data-driven marketing decisions.
+The dashboard leverages relational data modeling and custom DAX measures to compute KPIs including campaign acceptance rates, customer spending metrics, and segment-level performance indicators. Interactive visuals, slicers, and cross-filtering enable drill-down analysis across demographic segments, allowing users to compare accepted versus non-accepted campaigns, identify high-value customer cohorts, and evaluate demographic impact on marketing outcomes.
+
+Overall, this project demonstrates the practical application of Power BI, DAX, and interactive data visualization to transform raw marketing data into scalable, insight-driven analytics for marketing performance optimization.
 
 ---
 
 ## 📁 Dataset
+The DAtaset was collectedd from Kaggle.
 
 * **Dataset Name:** [Marketing Analytics Dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
-* **Data Includes:**
-
-  * Customer demographics (age, education, marital status, income)
-  * Campaign responses
-  * Product-level spending
-  * Purchase channels
 
 ---
 
