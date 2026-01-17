@@ -108,7 +108,8 @@ This dashboard demonstrates how interactive BI solutions can help marketing team
 ---
 
 
-## 📷 [Dashboard Preview](https://github.com/Farhad-UddinS/Market-Campaign-Analysis/blob/main/Screenshot%202026-01-18%20024956.png)
+## 📷 Dashboard Preview
+![Dashboard Preview](https://github.com/Farhad-UddinS/Market-Campaign-Analysis/blob/main/Screenshot%202026-01-18%20024956.png)
 
 
 ---
