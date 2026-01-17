@@ -14,7 +14,7 @@ This project evaluates the **effectiveness of marketing campaigns**, customer sp
 
 ## 📁 Dataset
 
-* **Dataset Name:** Marketing Analytics Dataset[https://www.kaggle.com/datasets/jackdaoud/marketing-data]
+* **Dataset Name:** [Marketing Analytics Dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
 * **Data Includes:**
 
   * Customer demographics (age, education, marital status, income)
@@ -108,9 +108,8 @@ This dashboard demonstrates how interactive BI solutions can help marketing team
 ---
 
 
-## 📷 Dashboard Preview
+## 📷 [Dashboard Preview](https://github.com/Farhad-UddinS/Market-Campaign-Analysis/blob/main/Screenshot%202026-01-18%20024956.png)
 
-*Add screenshots here*
 
 ---
 
